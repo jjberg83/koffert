@@ -1,0 +1,15 @@
+/Users/jjberg/Github/koffert/enkeltProgram/bin/Debug/net7.0/enkeltProgram
+/Users/jjberg/Github/koffert/enkeltProgram/bin/Debug/net7.0/enkeltProgram.deps.json
+/Users/jjberg/Github/koffert/enkeltProgram/bin/Debug/net7.0/enkeltProgram.runtimeconfig.json
+/Users/jjberg/Github/koffert/enkeltProgram/bin/Debug/net7.0/enkeltProgram.dll
+/Users/jjberg/Github/koffert/enkeltProgram/bin/Debug/net7.0/enkeltProgram.pdb
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.csproj.AssemblyReference.cache
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.AssemblyInfoInputs.cache
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.AssemblyInfo.cs
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.dll
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/refint/enkeltProgram.dll
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.pdb
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/enkeltProgram.genruntimeconfig.cache
+/Users/jjberg/Github/koffert/enkeltProgram/obj/Debug/net7.0/ref/enkeltProgram.dll
